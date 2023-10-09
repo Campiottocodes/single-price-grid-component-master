@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://6524694e6eb8a834993c79d2--strong-croquembouche-14ac1a.netlify.app/)
+- Live Site URL: [Single price](https://6524694e6eb8a834993c79d2--strong-croquembouche-14ac1a.netlify.app/)
 
 ### Built with
 
